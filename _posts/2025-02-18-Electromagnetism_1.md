@@ -32,6 +32,10 @@ def potential_pho3(x, C1_pho3, C2):
 def potential_pho4(x, C1_pho4, C2):
     return -(pho4/(2*e))*(x**2) + C1_pho4*x + C2
 
+# It would be more comfortable if using array
+# for example, pho = [0.2, 0.1, 0.05, 0.01] and C1 = [ ~ ]
+# Then make subplot using i, j as you can see below 
+
 C1_pho1 = (pho1*distance)/(2*e) - (5/distance) # pho1,2,3,4 -> Fixing codes in a simpler way 
 C1_pho2 = (pho2*distance)/(2*e) - (5/distance)
 C1_pho3 = (pho3*distance)/(2*e) - (5/distance)
@@ -47,6 +51,8 @@ x = np.linspace(0, distance, 500)
 ```python
 # Making subplot for four values of rho 
 figure, axis = plt.subplots(2, 2, figsize=(10, 8), constrained_layout=True)
+
+# i, j = divmod(idx, 2)  # 2x2 subplot, calculate indexes
 
 axis[0, 0].plot(x, potential_pho1(x, C1_pho1, C2))
 axis[0, 0].set_title(f"pho = {pho1}")
