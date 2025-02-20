@@ -71,11 +71,11 @@ plt.show()
 ```
 
 
-    
+​    
 ![png](output_4_0.png)
-    
+​    
 
-
+![Electric field force lines between two parallel plates. | Download  Scientific Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7wonALo6W-xeaKW5UpYt48vg84HC5p0kaA&s)
 
 ```python
 
