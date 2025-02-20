@@ -71,17 +71,5 @@ plt.show()
 ```
 
 
-​    
 ![png](output_4_0.png)
-​    
-
-![Electric field force lines between two parallel plates. | Download  Scientific Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7wonALo6W-xeaKW5UpYt48vg84HC5p0kaA&s)
-
-```python
-
-```
-
-
-```python
-
-```
+    ![image-20250219194723121](C:\Users\user\github\tomato_github_blog\coolest-tomato.github.io\images\2025-02-18-Electromagnetism_1\image-20250219194723121.png)
