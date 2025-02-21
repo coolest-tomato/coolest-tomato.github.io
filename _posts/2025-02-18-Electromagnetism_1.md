@@ -72,4 +72,6 @@ plt.show()
 
 
 ![png](output_4_0.png)
-    ![image-20250219194723121](C:\Users\user\github\tomato_github_blog\coolest-tomato.github.io\images\2025-02-18-Electromagnetism_1\image-20250219194723121.png)
+   
+
+![image](C:\Users\user\github\tomato_github_blog\coolest-tomato.github.io\images\2025-02-18-Electromagnetism_1\image.png)
