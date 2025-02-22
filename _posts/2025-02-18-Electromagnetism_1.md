@@ -6,6 +6,7 @@ import math
 
 
 ```python
+
 # parameters for v(x) 
 pho1 = 0.2         # volume charge density 
 pho2 = 0.1
@@ -69,9 +70,4 @@ axis[1, 1].set_xlabel("distance (m)")
 
 plt.show()
 ```
-
-
-![png](output_4_0.png)
-   
-
-![image](C:\Users\user\github\tomato_github_blog\coolest-tomato.github.io\images\2025-02-18-Electromagnetism_1\image.png)
+![asd]({{site.url}}\images\2025-02-18-Electromagnetism_1\asd-1740195440661-16.png)
